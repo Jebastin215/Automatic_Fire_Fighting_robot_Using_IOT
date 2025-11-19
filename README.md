@@ -41,11 +41,11 @@ This project is an Automatic Fire Fighting Robot designed to detect and extingui
 
 ## Circuit Diagram
 
-![Circuit Diagram](![alt text](Assets\Circuit_Diagram.png))
+![Circuit Diagram](![alt text](https://github.com/Jebastin215/Automatic_Fire_Fighting_robot_Using_IOT/blob/e2171d19f5e7fc96720a677fa0680c10c982765e/Assets/Circuit_Diagram.png))
 
 ## Project Images
 
-![Robot Image](Assets\Robot_Photo.png)
+![Robot Image](https://github.com/Jebastin215/Automatic_Fire_Fighting_robot_Using_IOT/blob/e2171d19f5e7fc96720a677fa0680c10c982765e/Assets/Robot_Photo.png)
 
 ## Author
 
